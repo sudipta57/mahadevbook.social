@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://mahadevbook.social/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

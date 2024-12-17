@@ -1,0 +1,29 @@
+.elementor-207 .elementor-element.elementor-element-4d33221{--display:flex;--background-transition:0.3s;}.elementor-207 .elementor-element.elementor-element-fd5ca63{--display:flex;--background-transition:0.3s;--margin-top:-55px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-207 .elementor-element.elementor-element-1770790{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:40px;--padding-bottom:40px;--padding-left:0px;--padding-right:0px;}.elementor-207 .elementor-element.elementor-element-64a270b{text-align:left;}.elementor-207 .elementor-element.elementor-element-64a270b .elementor-heading-title{color:var( --e-global-color-nvprimaryaccent );}.elementor-207 .elementor-element.elementor-element-79f7bd6{--display:flex;--background-transition:0.3s;}.elementor-207 .elementor-element.elementor-element-e50c756{text-align:center;}.elementor-207 .elementor-element.elementor-element-e50c756 .elementor-heading-title{color:var( --e-global-color-nvprimaryaccent );}.elementor-207 .elementor-element.elementor-element-bdd3304{--e-image-carousel-slides-to-show:5;}.elementor-207 .elementor-element.elementor-element-bdd3304 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image{border-radius:8px 8px 8px 8px;}.elementor-207 .elementor-element.elementor-element-bdd3304 .elementor-image-carousel-caption{text-align:center;}.elementor-207 .elementor-element.elementor-element-1d9dd41{--display:flex;--background-transition:0.3s;}/* Start custom CSS for html, class: .elementor-element-a20e871 */#social_side_links {
+    position: fixed;
+    bottom: 80px;
+    padding: 0px;
+    list-style: none;
+    z-index: 99;
+    right: 25px;
+}
+
+
+.tooltip1 {
+    background-color: #333;
+    color: #fff;
+    bottom: 19px;
+    right: 16px;
+    position: relative;
+    padding: 11px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}/* End custom CSS */

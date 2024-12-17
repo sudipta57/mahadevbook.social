@@ -1,0 +1,29 @@
+.elementor-211 .elementor-element.elementor-element-1c3dce0{--display:flex;--background-transition:0.3s;}.elementor-211 .elementor-element.elementor-element-1bf288d{--display:flex;--background-transition:0.3s;--margin-top:-63px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-211 .elementor-element.elementor-element-da2f050{--display:flex;--background-transition:0.3s;}/* Start custom CSS for html, class: .elementor-element-8af80b5 */#social_side_links {
+    position: fixed;
+    bottom: 80px;
+    padding: 0px;
+    list-style: none;
+    z-index: 99;
+    right: 25px;
+}
+
+
+.tooltip1 {
+    background-color: #333;
+    color: #fff;
+    bottom: 19px;
+    right: 16px;
+    position: relative;
+    padding: 11px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}/* End custom CSS */
